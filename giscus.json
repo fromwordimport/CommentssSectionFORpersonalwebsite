@@ -1,4 +1,4 @@
 {
-  "origins": ["http://localhost:8882", "http://127.0.0.1:8882", "https://fromworldimport.com", "https://personalwebsite-ekem.vercel.app", "http://personalwebsite-ekem.vercel.app"],
+  "origins": ["http://localhost:8882", "http://127.0.0.1:8882", "https://fromworldimport.com", "https://www.fromworldimport.com", "https://personalwebsite-ekem.vercel.app", "http://personalwebsite-ekem.vercel.app"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
